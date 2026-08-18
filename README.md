@@ -49,7 +49,9 @@ Three wrong answers ends the round, but one viewer can only ever cause a single 
 
 The bank ships 2,620 boards and 13,100 answers across twelve languages, each one written natively rather than translated, because a survey is a poll of what people in that culture actually say. In the Arabic bank, name a pet puts cat above dog, the reverse of English. Every board is checked offline before it ships so an unwinnable one never appears live, and the question is read aloud in your own streaming voice so a viewer who is listening rather than watching can still play.
 
-## Gameplay
+## What it looks like on stream
+
+<img src="stream.webp" alt="Crowd Says running on a TikTok Live" width="320">
 
 [Watch Crowd Says gameplay](https://cdn.livecade.io/games/crowd-says.mp4)
 
